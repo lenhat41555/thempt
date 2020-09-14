@@ -1,0 +1,13 @@
+C:\LN\thempt\bin\Debug\netcoreapp3.1\thempt.exe
+C:\LN\thempt\bin\Debug\netcoreapp3.1\thempt.deps.json
+C:\LN\thempt\bin\Debug\netcoreapp3.1\thempt.runtimeconfig.json
+C:\LN\thempt\bin\Debug\netcoreapp3.1\thempt.runtimeconfig.dev.json
+C:\LN\thempt\bin\Debug\netcoreapp3.1\thempt.dll
+C:\LN\thempt\bin\Debug\netcoreapp3.1\thempt.pdb
+C:\LN\thempt\obj\Debug\netcoreapp3.1\thempt.csprojAssemblyReference.cache
+C:\LN\thempt\obj\Debug\netcoreapp3.1\thempt.AssemblyInfoInputs.cache
+C:\LN\thempt\obj\Debug\netcoreapp3.1\thempt.AssemblyInfo.cs
+C:\LN\thempt\obj\Debug\netcoreapp3.1\thempt.csproj.CoreCompileInputs.cache
+C:\LN\thempt\obj\Debug\netcoreapp3.1\thempt.dll
+C:\LN\thempt\obj\Debug\netcoreapp3.1\thempt.pdb
+C:\LN\thempt\obj\Debug\netcoreapp3.1\thempt.genruntimeconfig.cache
